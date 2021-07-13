@@ -106,7 +106,7 @@ author:
   bio              : "I am an **amazing** person."
   location         : "SoonCheonHyang Univ."
   email            : "qkrdbstn25@naver.com"  
-links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:qkrdbstn25@naver.com"
