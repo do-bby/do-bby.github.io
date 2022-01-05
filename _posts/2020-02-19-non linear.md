@@ -65,34 +65,34 @@ plt.show() #화면 표시 jupyter나 ipython에서 호출안해도댐
 
 # cost = 10
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/cost =10.png" alt=""> {% endraw %}
+![cost =10](https://user-images.githubusercontent.com/58400107/148207293-d56e5851-c0d7-44a1-84a0-9c6caa8c2cba.png)
 
 
 # cost = 100
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/cost =100.png" alt=""> {% endraw %}
+![cost =100](https://user-images.githubusercontent.com/58400107/148207295-9e3ae896-b592-4b66-aebe-18acc7b58261.png)
 
 # cost = 10000
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/cost = 10000.png" alt=""> {% endraw %}
+![cost = 10000](https://user-images.githubusercontent.com/58400107/148207291-8db3b18d-2536-4d49-94bd-882be26fe25b.png)
 
 
 # gamma = 1
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/gamma=1.png" alt=""> {% endraw %}
+![gamma=1](https://user-images.githubusercontent.com/58400107/148207411-2f494377-08a0-4056-8b2b-3c638c7f635c.png)
 
 
 # gamma = 10
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/gamma=10.png" alt=""> {% endraw %}
+![gamma=10](https://user-images.githubusercontent.com/58400107/148207414-6c59baaf-cc16-4ee1-a8d7-0ee3388bc2ae.png)
 
 
 
 # gamma = 100
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/gamma=100.png" alt=""> {% endraw %}
+![gamma=100](https://user-images.githubusercontent.com/58400107/148207407-639a4514-27ae-4d99-9497-2622bb241183.png)
 
 
 
