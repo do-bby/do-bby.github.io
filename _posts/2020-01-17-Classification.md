@@ -12,7 +12,8 @@ Machine Learning에서 지도학습,비지도학습,강화학습이 있었다고
 
 간단하게 회귀와 분류를 구분하자면, 아래와 같이 구분할 수 있습니다.
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/classification.png" alt=""> {% endraw %}
+![classification](https://user-images.githubusercontent.com/58400107/148205864-8e62a811-2c9f-4919-88bd-f6c1e6e58ef7.png)
+
 
 회귀와 분류의 차이라면
 출력값에 연속성이 있다면 회귀 문제라고 볼 수 있습니다. 
@@ -28,7 +29,8 @@ Machine Learning에서 지도학습,비지도학습,강화학습이 있었다고
 
 #분류(Classification)
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/C.png" alt=""> {% endraw %}
+![C](https://user-images.githubusercontent.com/58400107/148205908-1c3f36d6-6e6e-473a-83b5-a4b0ae666723.png)
+
 
 분류는 미리 정의된, 가능성 있는 여러 클래스 레이블중 하나를 예측하는 것 인데,
 얼굴 인식, 유명한 숫자 판별(MNIST) 등이 분류에 속합니다.
@@ -40,7 +42,8 @@ Machine Learning에서 지도학습,비지도학습,강화학습이 있었다고
 
 #이진 분류(Binary classification)
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/binary classification.png" alt=""> {% endraw %}
+![binary classification](https://user-images.githubusercontent.com/58400107/148205965-4429e85d-4513-48b8-bb8f-1ad855a44099.png)
+
 
 이진 분류는 예측해야 할 class가 두가지인 경우입니다.
 
@@ -54,7 +57,9 @@ Machine Learning에서 지도학습,비지도학습,강화학습이 있었다고
 
 알려지지 않은 데이터가 들어왔을 때 어디에 속하는지 아는 것이 이진 분류의 목적입니다.
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/sigmoid.png" alt=""> {% endraw %}
+![sigmoid](https://user-images.githubusercontent.com/58400107/148206022-d0c710c8-d856-42ea-8ff4-f2057c55f784.png)
+
+
 
 1차 선형함수를 어떻게 이진 분류에 적용하느냐가 문제인데,
 
@@ -97,7 +102,8 @@ Machine Learning에서 지도학습,비지도학습,강화학습이 있었다고
 
 ---
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/function.png" alt=""> {% endraw %}
+![function](https://user-images.githubusercontent.com/58400107/148206132-ff56f24b-b3d2-4b3d-8285-8cfc2246e6d1.png)
+
 
 이진 분류 함수를 수학적으로 표현하면 위와 같습니다.
 
@@ -108,7 +114,8 @@ Machine Learning에서 지도학습,비지도학습,강화학습이 있었다고
 
 #다중 분류(Multi-class classification)
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/multi class.png" alt=""> {% endraw %}
+![multi class](https://user-images.githubusercontent.com/58400107/148206177-28917633-e14e-4917-960f-4826ddae4630.png)
+
 
 다중 분류는 예측해야 할 class가 여러 가지인 경우입니다.
 

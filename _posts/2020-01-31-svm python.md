@@ -58,4 +58,4 @@ y절편은 -b/w1
 이 라인이 구분선이 된다.
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/svm.png" alt=""> {% endraw %}
+![svm](https://user-images.githubusercontent.com/58400107/148207119-6faa3c09-d8e3-4815-b44e-2687fd7e9e32.png)

@@ -8,7 +8,8 @@ toc: true
 선형 회귀 분석은 지도학습의 일종으로, 예측 모델을 만들어 
 알려지지않은 데이터가 들어왔을 때 결과를 예측하는 기술을 말합니다.
 
-{% raw %} <img src="https://github.com/do-bby/Machine-Learning/tree/master/assets/img/LR.png" alt=""> {% endraw %}
+![LR](https://user-images.githubusercontent.com/58400107/148205011-2bdc1b1c-a1cb-480d-ab6a-1021550a34b1.png)
+
 
 
 학습 데이터는 2차원데이터 (x,y)로 구성되어 있는데,
@@ -17,7 +18,8 @@ toc: true
 데이터가 완전한 일차원 선형 분포를 갖고있진 않지만
 1차방정식을 알아내면 오차가 있어도 대략적인 y값을 알 수 있습니다.
 
-{% raw %} <img src="https://github.com/do-bby/Machine-Learning/tree/master/assets/img/LR2.png" alt=""> {% endraw %}
+![LR2](https://user-images.githubusercontent.com/58400107/148205062-9abc3c77-e121-491c-ad48-4b3479ccde7f.png)
+
 
 
 모델은 1차 방정식이 되고,
@@ -29,12 +31,14 @@ W=1,b=3이라고 가정하고, 데이터(10,6)을 1차 방정식 , 즉 모델에
 이런 오차를 정의하는 함수를 손실함수(Loss Function)이라고 하는데 
 오차는 양인지 음인지 중요하지 않기 때문에 제곱을 취했습니다.
 
-{% raw %} <img src="https://github.com/do-bby/Machine-Learning/tree/master/assets/img/GD.png" alt=""> {% endraw %}
+![GD](https://user-images.githubusercontent.com/58400107/148205120-e8413745-72fb-4d4e-b4fe-842a2c01eb9a.png)
+
 
 경사하강법은 오차를 최소화하기 위한 최적의 매개 변수(Weight, bias)를 찾기위해 사용되는 방법 중 하나로,
 함수 기울기(경사)를 낮은 쪽으로 계속 이동시켜 극값에 이를 때까지 반복시키는 것을 경사 하강법이라고 합니다.
 
-{% raw %} <img src="https://github.com/do-bby/Machine-Learning/tree/master/assets/img/GD2.png" alt=""> {% endraw %}
+![GD2](https://user-images.githubusercontent.com/58400107/148205164-99628a9b-5514-4c5a-ac48-03621d42ec3d.png)
+
 
 경사하강법 과정은 다음과 같습니다.
 

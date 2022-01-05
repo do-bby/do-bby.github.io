@@ -17,7 +17,7 @@ Decision Tree
 
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/d.png" alt=""> {% endraw %}
+![d](https://user-images.githubusercontent.com/58400107/148207569-3127f981-0548-4246-b44c-9232011f4f31.png)
 
 
 
@@ -28,7 +28,7 @@ Decision Tree
 
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/dt.png" alt=""> {% endraw %}
+![dt](https://user-images.githubusercontent.com/58400107/148207571-0be01c25-d7b9-41ae-976f-bbf65d76dd67.png)
 
 
 
@@ -58,7 +58,8 @@ Overfitting을 막기 위한 전략으로 가지치기(Pruning)이라는 기법�
 
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/e.png" alt=""> {% endraw %}
+![e](https://user-images.githubusercontent.com/58400107/148207576-338bfdda-f005-432c-9799-50dc3322e3b9.png)
+
 
 
 
@@ -72,7 +73,7 @@ Overfitting을 막기 위한 전략으로 가지치기(Pruning)이라는 기법�
 
 
 
-{% raw %} <img src="https://qkrdbstn15.github.io/assets/img/entropy.png" alt=""> {% endraw %}
+![entropy](https://user-images.githubusercontent.com/58400107/148207565-2316a945-bd25-4b82-a271-acd011b74e73.png)
 
 
 
