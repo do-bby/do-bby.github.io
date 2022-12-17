@@ -1,7 +1,9 @@
 ---
 title: JPA적용
-categories:
-- blogging
+categories: 
+  - Spring
+tags:
+  - Spring
 last_modified_at: 2022-01-04T17:00:00+09:00
 toc: true
 ---
