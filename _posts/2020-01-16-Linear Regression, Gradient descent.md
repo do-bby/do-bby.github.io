@@ -1,7 +1,9 @@
 ---
 title: "선형 회귀와 경사하강법"
 categories: 
-  - blogging
+  - MachineLearning
+tags:
+  - ML
 last_modified_at: 2020-01-16 T18:23:00+09:00
 toc: true
 ---

@@ -1,7 +1,9 @@
 ---
 title: "교차 검증"
 categories: 
-  - blogging
+  - MachineLearning
+tags:
+  - ML
 last_modified_at: 2020-01-15 T18:23:00+09:00
 toc: true
 ---

@@ -1,7 +1,9 @@
 ---
 title: "kNN기계학습 python"
 categories: 
-  - blogging
+  - MachineLearning
+tags:
+  - ML
 last_modified_at: 2020-01-20 T16:23:00+09:00
 toc: true
 ---

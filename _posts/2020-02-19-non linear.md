@@ -1,7 +1,9 @@
 ---
 title: "비선형"
 categories: 
-  - blogging
+  - MachineLearning
+tags:
+  - ML
 last_modified_at: 2020-02-19 T15:00:00+09:00
 toc: true
 ---

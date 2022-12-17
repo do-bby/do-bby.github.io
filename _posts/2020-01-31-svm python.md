@@ -1,7 +1,9 @@
 ---
 title: "SVM python"
 categories: 
-  - blogging
+  - MachineLearning
+tags:
+  - ML
 last_modified_at: 2020-01-31T15:00:00+09:00
 toc: true
 ---
