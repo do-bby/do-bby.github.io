@@ -1,8 +1,8 @@
 ---
 title: "MachineLearning"
-permalink: /categories/ML/
+permalink: /categories/MachineLearning/
 layout: category
 author_profile: true
-taxonomy: ML
+taxonomy: MachineLearning
 ---
 MachineLearning 끄적이는 곳입니다...
