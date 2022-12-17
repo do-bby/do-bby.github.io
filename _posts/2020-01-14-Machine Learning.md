@@ -1,7 +1,9 @@
 ---
 title: "머신러닝 기초"
 categories: 
-  - blogging
+  - MachineLearning
+tags:
+  - ML
 last_modified_at: 2020-01-14 T18:23:00+09:00
 toc: true
 ---
